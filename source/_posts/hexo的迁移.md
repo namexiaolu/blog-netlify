@@ -6,16 +6,12 @@ tags: hexo
 1. 使用git clone 拷贝仓库
 2. 在本地新拷贝的h文件夹下通过Git bash依次执行下列指令：
 
-```npm install hexo```
-
-```npm install```
-
-```npm install``` 
-
-```hexo-deployer-git```
-
+```
+npm install hexo
+npm install
+npm install hexo-deployer-git
 （记得，不需要hexo init这条指令）。
-
+```
 
 本文改写自：
 ```作者：CrazyMilk
